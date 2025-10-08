@@ -1,5 +1,5 @@
 # inheritance
-from Customer import Customer
+from customer import Customer
 
 class Order:
     def __init__(self, customer: Customer, items):
