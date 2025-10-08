@@ -1,8 +1,8 @@
 # polymorphism
 
-from Orders import DineInOrder, DeliveryOrder
-from Customer import Customer
-from PaymentMethod import CashPayment, CardPayment
+from orders import DineInOrder, DeliveryOrder
+from customer import Customer
+from payment_method import CashPayment, CardPayment
 
 # Create customers
 shahd = Customer("Shahd", 500)
