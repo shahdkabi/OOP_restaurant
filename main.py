@@ -1,6 +1,6 @@
 # main
 #Call all files and run the code
-from ProcessOrders import orders, payments
+from process_orders import orders, payments
 
 print("=== Welcome to Our Restaurant System ===\n")
 
